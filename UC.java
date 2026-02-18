@@ -4,7 +4,7 @@
 *version 1.0
 */
 
-class Message{
+class UC{
    public static void main(String[] args){
       System.out.println("Jai OOPS");
 	  
