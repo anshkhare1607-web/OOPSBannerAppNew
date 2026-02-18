@@ -1,7 +1,14 @@
 
+/**
+
 *UC4: Feature/UC4-OOPS Banner Printing using Array And Loops
 *@author Developer
 *version 4.0
+
+*/
+
+public class UC{
+	public static void main(String[] args){
 
 		String[] arr  = new String[7];
 		arr[0] = String.join("  ","   ***   ","   ***   ","*******","******");
