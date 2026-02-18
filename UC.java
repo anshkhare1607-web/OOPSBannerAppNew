@@ -1,12 +1,20 @@
-/**
-*UC1: Feature/UC1-PrintOOPS
+
+
+/*
+*UC2: Feature/UC2-Print OOPS Banner
 *@author Developer
-*version 1.0
+*version 2.0
 */
 
-class Message{
-   public static void main(String[] args){
-      System.out.println("Jai OOPS");
-	  
-   }
+public class UC{
+	public static void main(String[] args){
+		System.out.println("    ***         ***      **********   *******");
+		System.out.println("  **   **     **   **    **      **   **     ");
+		System.out.println(" **     **   **     **   **      **    *****");
+		System.out.println(" **     **   **     **   **********      ****");
+		System.out.println(" **     **   **     **   **                **");
+		System.out.println("  **   **     **   **    **           **  ***");
+		System.out.println("    ***         ***      **           *******");
+	}
+
 }
